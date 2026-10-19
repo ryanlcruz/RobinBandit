@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-Open a [security advisory](https://github.com/Ryanleoncoder/RobinBandit/security/advisories/new)
+Open a [security advisory](https://github.com/ryanlcruz/RobinBandit/security/advisories/new)
 instead of a public issue. If that is not available to you, open an issue saying
 only that you found something and asking for a private channel — no details in
 the open.

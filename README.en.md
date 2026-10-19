@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ryanleoncoder/RobinBandit/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/Ryanleoncoder/RobinBandit/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="https://github.com/ryanlcruz/RobinBandit/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/ryanlcruz/RobinBandit/actions/workflows/ci.yml/badge.svg"></a>
   <img alt="Python 3.9+" src="https://img.shields.io/badge/python-3.9%2B-5E7A61?style=flat-square&labelColor=000000">
   <img alt="Zero dependencies in the core" src="https://img.shields.io/badge/core-zero%20dependencies-E0AF43?style=flat-square&labelColor=000000">
   <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/license-MIT-EFE3D2?style=flat-square&labelColor=000000"></a>
@@ -34,7 +34,7 @@ paste into Claude Code, Codex, Cline, OpenCode, the OpenAI SDK or curl.
 subscription, the rest by key. Being in the catalog is not the same as being
 in your chain: without credentials or an explicit choice, a provider stays out.
 
-**[See the project page →](https://ryanleoncoder.github.io/RobinBandit/)**
+**[See the project page →](https://ryanlcruz.github.io/RobinBandit/)**
 
 ![The Now panel with route status, an in-progress attempt, recent activity and the start of the provider queue](docs/imagens/painel-agora.png)
 
@@ -44,7 +44,7 @@ Instead of keeping a fixed fallback order, RobinBandit watches the outcome of
 previous calls and reorders providers by context, quality, latency, availability
 and quota.
 
-The project started inside [CX-GAME](https://github.com/Ryanleoncoder/CX-GAME),
+The project started inside [CX-GAME](https://github.com/ryanlcruz/CX-GAME),
 as Logun's provider router, and was later split into a package of its own.
 
 ## Contents

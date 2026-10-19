@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ryanleoncoder/RobinBandit/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/Ryanleoncoder/RobinBandit/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="https://github.com/ryanlcruz/RobinBandit/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/ryanlcruz/RobinBandit/actions/workflows/ci.yml/badge.svg"></a>
   <img alt="Python 3.9+" src="https://img.shields.io/badge/python-3.9%2B-5E7A61?style=flat-square&labelColor=000000">
   <img alt="Zero dependências no core" src="https://img.shields.io/badge/core-zero%20depend%C3%AAncias-E0AF43?style=flat-square&labelColor=000000">
   <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/licen%C3%A7a-MIT-EFE3D2?style=flat-square&labelColor=000000"></a>
@@ -34,7 +34,7 @@ no Claude Code, Codex, Cline, OpenCode, SDK da OpenAI ou curl.
 assinatura e o resto por chave. Estar no catálogo não é estar na sua cadeia:
 sem credencial ou uma escolha explícita, o provedor fica de fora.
 
-**[Ver a página do projeto →](https://ryanleoncoder.github.io/RobinBandit/)**
+**[Ver a página do projeto →](https://ryanlcruz.github.io/RobinBandit/)**
 
 ![Painel Agora com estado da rota, tentativa em andamento, atividade recente e início da fila de provedores](docs/imagens/painel-agora.png)
 
@@ -42,7 +42,7 @@ sem credencial ou uma escolha explícita, o provedor fica de fora.
 
 Em vez de manter uma ordem fixa de fallback, o RobinBandit observa o resultado das chamadas anteriores e reordena os provedores conforme contexto, qualidade, latência, disponibilidade e cota.
 
-O projeto nasceu no [CX-GAME](https://github.com/Ryanleoncoder/CX-GAME), como roteador de provedores do Logun, e depois foi separado em um pacote próprio.
+O projeto nasceu no [CX-GAME](https://github.com/ryanlcruz/CX-GAME), como roteador de provedores do Logun, e depois foi separado em um pacote próprio.
 
 ## Índice
 
