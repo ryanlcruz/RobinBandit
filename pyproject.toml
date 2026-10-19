@@ -3,7 +3,7 @@ name = "robinbandit"
 version = "0.5.0"
 description = "Roteador adaptativo de provedores de LLM baseado em Thompson sampling"
 requires-python = ">=3.9"
-authors = [{ name = "Ryanleoncoder" }]
+authors = [{ name = "Ryan L. Cruz" }]
 dependencies = []
 
 [project.scripts]
